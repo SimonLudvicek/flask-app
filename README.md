@@ -1,0 +1,2 @@
+user: amdin 
+heslo: admin  
